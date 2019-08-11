@@ -1,16 +1,16 @@
 
 
 p {
-	font-family: "Georgia";
+	font-family: "Lucida Grande";
 	font-size: medium;
 }
 
 h2 {
-	font-family: "Georgia";
+	font-family: "Lucida Grande";
 }
 
 h3 {
-	font-family: "Georgia";
+	font-family: "Lucida Grande";
 	font-size: medium;
 }
 
@@ -20,7 +20,7 @@ h3 {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Lucida Grande", sans-serif;
 }
 
 .sidenav {
@@ -48,7 +48,8 @@ body {
 }
 
 .main {
-  margin-left: 200px; /* Same as the width of the sidenav */
+  margin-left: 300px; /* Same as the width of the sidenav */
+  margin-right:20%;
   font-size: 28px; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
