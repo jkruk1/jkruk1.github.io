@@ -1,22 +1,25 @@
 p, li {
-	font-family: "Arial";
+	font-family: "Georgia";
 	font-size: small;
 	}
 
 h1 {
-	font-family: "Arial";
+	font-family: "Georgia";
 	font-size: medium;
+	text-decoration: underline;
 	}
 
 h2 {
-	font-family: "Arial";
+	font-family: "Georgia";
+	font-size:medium;
+	font-style: italic;
+	border-style: solid;
 	}
 
 h3 {
-	font-family: "Arial";
-	font-size: medium;
-	font-variant:small-caps;
-	
+	font-family: "Georgia";
+	font-size: small;
+		
 		}
 
 
