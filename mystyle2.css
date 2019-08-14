@@ -5,15 +5,17 @@ p, li {
 
 h1 {
 	font-family: "Georgia";
-	font-size: medium;
-	text-decoration: underline;
+	font-size: xx-large;
+	padding-top: 30px;
+padding-bottom: 20px;	
 	}
 
 h2 {
 	font-family: "Georgia";
 	font-size:medium;
 	font-style: italic;
-	border-style: solid;
+	border-bottom-style: solid;
+	padding-top: 10px;
 	}
 
 h3 {
@@ -22,6 +24,8 @@ h3 {
 		
 		}
 
+	
+	
 
 .sidenav {
   height: 100%;
@@ -60,7 +64,10 @@ h3 {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-</style>
+
+
+
+
 </head>
 <body>
 
