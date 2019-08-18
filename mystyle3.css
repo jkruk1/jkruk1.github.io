@@ -1,26 +1,35 @@
 p, li {
 	font-family: "Nexa Bold";
-	font-size: medium;
-	list-style-type: none;
+	font-size: small;
 	}
 
-ul {
+
+table, ul {
+	text-align: left;
+	font-size: small;
 	list-style-type: none;
 }
 
-h1 {
-	font-family: "Georgia";
-	font-size: xx-large;
-	padding-top: 30px;
-padding-bottom: 20px;	
+th {
+	text-align: left;
+	font-size: small;
+	font-family: "Nexa Bold";
+	padding: 5px;
+		
 	}
+	
+td {
+	font-size: small;
+	font-famiily: "Nexa Bold";
+	padding-right: 30px;
+}
 
 h2 {
-	font-family: "Georgia";
+	font-family: "Nexa Bold";
 	font-size:medium;
-	font-style: italic;
-	border-bottom-style: solid;
-	padding-top: 10px;
+	border-top-style: solid;
+
+	
 	}
 
 h3 {
