@@ -4,6 +4,12 @@ p, li {
 	list-style-type: none;
 	}
 
+pre {
+	font-family: "Courier";
+	font-size: large
+	list-style-type: none;
+	}
+
 ul {
 	list-style-type: none;
 }
